@@ -1,3 +1,7 @@
+import os
+import tensorflow as tf
+import numpy as np
+
 path='wowza/'
 splits=['train','val','test']
 img_ids={
